@@ -1,0 +1,20 @@
+{
+  "name": "simple-nlp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.5.1",
+    "typescript": "^4.6.2"
+  },
+  "dependencies": {
+    "@types/natural": "^5.1.0"
+  }
+}
